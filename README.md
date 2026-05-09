@@ -32,7 +32,7 @@ python main.py
 
 
 ### 4. 生成结果示例
-
+https://github.com/mirowabo/box/blob/main/a.png
 
 
 
